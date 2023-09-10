@@ -7,9 +7,7 @@
 If you’re using a different Arduino board, make sure you check the correct I2C pins:
 
 - Nano: SDA (A4); SCL (A5);
-
 - MEGA: SDA (20); SCL (21);
-
 - Leonardo: SDA (20); SCL (21);
 
 ### Reference links
